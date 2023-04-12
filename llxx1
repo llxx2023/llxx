@@ -1,4 +1,4 @@
-const SECRET_KEY = ENTER YOUR SECRET KEY HERE;
+const SECRET_KEY = "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";
 const MAX_TOKENS = 200;
 
 // For more cool AI snippets and demos, follow me on Twitter: https://twitter.com/_abi_
